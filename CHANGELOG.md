@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jiapeiyang/frontend-engineer-demo/compare/v1.0.0...v1.1.0) (2022-07-06)
+
+
+### Features
+
+* update license ([4e290dd](https://github.com/jiapeiyang/frontend-engineer-demo/commit/4e290dda6e91580082d8939616262cce69a60046))
+
 # 1.0.0 (2022-07-06)
 
 
