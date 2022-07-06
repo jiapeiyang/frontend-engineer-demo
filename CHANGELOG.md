@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/jiapeiyang/frontend-engineer-demo/compare/v1.1.0...v1.2.0) (2022-07-06)
+
+
+### Features
+
+* 测试 ([eeed26e](https://github.com/jiapeiyang/frontend-engineer-demo/commit/eeed26e3caec67de6c641b662f1773de9b2bd2c1))
+
 # [1.1.0](https://github.com/jiapeiyang/frontend-engineer-demo/compare/v1.0.0...v1.1.0) (2022-07-06)
 
 
